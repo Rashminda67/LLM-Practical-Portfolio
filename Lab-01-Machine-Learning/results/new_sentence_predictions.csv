@@ -1,0 +1,11 @@
+Sentence,Predicted Sentiment
+This product is absolutely amazing!,Positive
+I really love this movie.,Positive
+The food was delicious and the service was excellent.,Positive
+This is the worst product I have ever purchased.,Negative
+I am very disappointed with the service.,Negative
+The movie was boring and terrible.,Negative
+The phone is good but the battery is terrible.,Negative
+I do not recommend this restaurant.,Negative
+The movie was not bad at all.,Negative
+The delivery arrived yesterday.,Positive
