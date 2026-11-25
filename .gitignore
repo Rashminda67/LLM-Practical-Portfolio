@@ -1,0 +1,21 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+rag_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Hugging Face cache
+.cache/

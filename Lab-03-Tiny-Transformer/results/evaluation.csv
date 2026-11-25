@@ -1,0 +1,2 @@
+Model,Layers,Attention Heads,Embedding Dimension,Epochs,Training Loss,Validation Loss,Perplexity,Parameters
+Tiny Transformer,2,4,64,3,2.4209089994430544,2.4298211216926573,11.35685040411847,113867
