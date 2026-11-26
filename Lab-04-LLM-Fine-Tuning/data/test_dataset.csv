@@ -1,0 +1,9 @@
+question,expected,type
+What are your opening hours?,"9 AM to 7 PM, Monday to Saturday.",Seen
+How much does laptop cleaning cost?,"LKR 3,500.",Seen
+How much is the delivery charge?,LKR 750.,Seen
+What is the starting price of a computer for gaming?,"LKR 220,000.",Unseen
+Is your store operating on Sunday?,No. The store is closed on Sundays.,Unseen
+What is the cost of the laptop package for students?,"Starting from LKR 145,000.",Unseen
+For how long are brand-new notebooks covered by warranty?,One-year standard warranty.,Unseen
+What is the total price for laptop diagnosis and cleaning?,"LKR 5,000.",Unseen - Reasoning

@@ -1,0 +1,17 @@
+{
+    "base_model": "Qwen/Qwen2.5-0.5B-Instruct",
+    "fine_tuning_method": "LoRA",
+    "training_examples": 36,
+    "validation_examples": 6,
+    "epochs": 8,
+    "learning_rate": 0.0002,
+    "lora_rank": 16,
+    "lora_alpha": 32,
+    "trainable_parameters": 8798208,
+    "total_parameters": 502830976,
+    "trainable_percentage": 1.7497346861940342,
+    "original_accuracy": 0.0,
+    "fine_tuned_accuracy": 87.5,
+    "validation_loss": 0.775678813457489,
+    "perplexity": 2.1720660545343575
+}

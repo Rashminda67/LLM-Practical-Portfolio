@@ -1,0 +1,14 @@
+{
+    "train_runtime": 113.9419,
+    "train_samples_per_second": 2.528,
+    "train_steps_per_second": 0.632,
+    "total_flos": 42850665169920.0,
+    "train_loss": 0.529283210195394,
+    "epoch": 8.0,
+    "gpu_name": "Tesla T4",
+    "method": "LoRA",
+    "training_time_seconds": 115.46421522899982,
+    "peak_gpu_memory_gib": 3.588954448699951,
+    "trainable_parameters": 8798208,
+    "trainable_percentage": 1.7497346861940342
+}

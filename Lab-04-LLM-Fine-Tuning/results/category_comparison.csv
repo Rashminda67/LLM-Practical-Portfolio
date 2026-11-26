@@ -1,0 +1,3 @@
+Category,Number of Questions,Original Accuracy,Fine-Tuned Accuracy
+Seen Questions,3,0.0,100.0
+Unseen Questions,5,0.0,80.0

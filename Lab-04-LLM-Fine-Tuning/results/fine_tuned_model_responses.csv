@@ -1,0 +1,9 @@
+question,expected,type,fine_tuned_response
+What are your opening hours?,"9 AM to 7 PM, Monday to Saturday.",Seen,"TechZone is open from 9 AM to 7 PM, Monday to Saturday."
+How much does laptop cleaning cost?,"LKR 3,500.",Seen,"The TechZone standard laptop cleaning service costs LKR 3,500."
+How much is the delivery charge?,LKR 750.,Seen,The standard TechZone delivery charge is LKR 750.
+What is the starting price of a computer for gaming?,"LKR 220,000.",Unseen,"The TechZone starting gaming PC starts at LKR 240,000."
+Is your store operating on Sunday?,No. The store is closed on Sundays.,Unseen,"No. TechZone is open from 9 AM to 7 PM, Monday to Saturday."
+What is the cost of the laptop package for students?,"Starting from LKR 145,000.",Unseen,"The TechZone laptop package starts at LKR 145,000."
+For how long are brand-new notebooks covered by warranty?,One-year standard warranty.,Unseen,A TechZone brand-new notebook comes with a one-year standard warranty.
+What is the total price for laptop diagnosis and cleaning?,"LKR 5,000.",Unseen - Reasoning,"The TechZone standard laptop diagnostic and cleaning service costs LKR 1,500."
