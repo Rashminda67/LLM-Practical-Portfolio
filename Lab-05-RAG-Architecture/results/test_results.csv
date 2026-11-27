@@ -1,0 +1,11 @@
+test,expected_result,actual_result,status
+Document ingestion,PDF successfully indexed,,
+Vector database,ChromaDB successfully created,,
+Software Engineering duration,4 years,,
+Software Verification and Validation code,SE309.3,,
+Computer Science AI module,Core module,,
+Multimedia degree duration,3 years,,
+Multimedia internship,90 days,,
+Unknown question,Information unavailable,,
+Multiple PDF upload,Additional PDFs indexed,,
+Source references,Correct document and page,,
